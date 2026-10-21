@@ -16,6 +16,3 @@ pip install numpy pandas requests beautifulsoup4 matplotlib scikit-learn
 1. Install the required libraries.
 2. Open the Jupyter Notebook.
 3. Run the cells in order.
-
-## Link to github repository
-https://github.com/Njabulo-bit-bit/Data-Science-500-Assignment.git
